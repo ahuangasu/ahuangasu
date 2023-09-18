@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on CAREER XRCADE using Unity and C# with Meteor Studio! It is an educational VR experience that allows students to learn about different career paths.
+
 <!--
 **ahuangasu/ahuangasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
