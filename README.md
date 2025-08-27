@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on CAREER XRCADE using Unity and C# with Meteor Studio! It is an educational VR experience that allows students to learn about different career paths.
+I am a graduate student at Arizona State University studying robotics and autonomous systems. I'm currently interested in projects regarding machine learning, data science, software development, and UI/UX. I'm always looking for new opportunities to grow, learn, and develop new skills!
 
 <!--
 **ahuangasu/ahuangasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
